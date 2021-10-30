@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abirami.
-- Currently : M.Tech Computer Science and Engineering in Amrita Vishwa Vidyapeetahm 
+- Currently : M.Tech Computer Science and Engineering in Amrita Vishwa Vidyapeetham, Coimbatore 
 - I am Currently learning - Natural Language Processing
 
 
